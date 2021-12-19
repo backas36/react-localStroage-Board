@@ -12,6 +12,7 @@
     "styled-components": "^5.3.3",
     "web-vitals": "^2.1.2"
   },
+  "homepage": "https://backas36.github.io/react-localStroage-Board",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
