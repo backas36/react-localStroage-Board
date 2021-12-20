@@ -15,6 +15,7 @@ const MsgTitle = styled.div`
   color:#020826;
   font-weight:bold;
   font-size:26px;
+  word-break: break-word;
 `
 
 const MsgInfo = styled.div`
@@ -28,6 +29,7 @@ const MsgContent = styled.div`
   color:#020826;
   font-weight:300;
   font-size:20px;
+  word-break: break-word;
 `
 const MsgResContainer = styled.div`
   margin-top:20px;
@@ -51,7 +53,7 @@ const ResItem = styled.div`
 const ResContent = styled.div`
   font-size:20px;
   font-weight:300;
-
+  word-break: break-word;
 `
 const ResItemInfo = styled.div`
   margin-top:10px;
