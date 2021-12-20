@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-localStroage-Board/static/css/main.bfd8e654.css",
-    "main.js": "/react-localStroage-Board/static/js/main.f8191882.js",
+    "main.js": "/react-localStroage-Board/static/js/main.1c80f769.js",
     "index.html": "/react-localStroage-Board/index.html",
     "main.bfd8e654.css.map": "/react-localStroage-Board/static/css/main.bfd8e654.css.map",
-    "main.f8191882.js.map": "/react-localStroage-Board/static/js/main.f8191882.js.map"
+    "main.1c80f769.js.map": "/react-localStroage-Board/static/js/main.1c80f769.js.map"
   },
   "entrypoints": [
     "static/css/main.bfd8e654.css",
-    "static/js/main.f8191882.js"
+    "static/js/main.1c80f769.js"
   ]
 }
